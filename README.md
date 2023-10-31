@@ -1,7 +1,7 @@
-Cel: Szybko obliczyc wynik z podanych liczb i podanego operatora.
+Cel: Szybko obliczyć wynik z podanych liczb i danego operatora.
 
-Jak Dziala: Kod prosi uztykownika o wpisanie pierwszej liczby, operatora, drugiej liczby i czyta je z konsoli uzywajac scanner'a.
-Nastepnie uzywa funkcji case by odroznic wypisany operator na jeden z mozliwych i wypisac wynik zalezacy od operatora.
+Jak Działa: Kod prosi użytkownika o wpisanie pierwszej liczby, operatora, drugiej liczby i czyta je z konsoli używając scanner'a.
+Następnie używa funkcji case by odróżnić wypisany operator na jeden z możliwych i wypisać wynik zależny od operatora.
 
-Interakcja: Uzytkownik podaje piersza liczbe, operatora i druga liczbe.
+Interakcja: Użytkownik podaje pierwsza liczbe, operatora i druga liczbe.
 (kod w src/Main.java)
